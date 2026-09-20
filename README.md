@@ -70,7 +70,7 @@ experience.
 
 **Focus:** Frontend Development • Responsive Design • UI/UX
 
-[View Project](YOUR_ATHELIO_REPO_LINK)
+[View Live Demo]([YOUR_ATHELIO_REPO_LINK](https://www.atheliosportsmanagement.com/))
 
 ---
 
