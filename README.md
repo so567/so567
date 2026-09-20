@@ -104,7 +104,7 @@ Machine learning exploration using the Forest Cover Type dataset.
 
 **Focus:** Python • Machine Learning • Data Preprocessing
 
-[View Project](YOUR_COVTYPE_REPO_LINK)
+[View Project](https://github.com/so567/forest-cover-type-ml.git)
 
 ---
 
