@@ -58,6 +58,7 @@ Currently working on strengthening my skills in:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="[https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white](https://toolso.ai/tool/antigravity-google)"/>
 </p>
 
 ---
@@ -81,7 +82,7 @@ coffee categories, menu browsing and cart functionality.
 
 **Focus:** HTML • CSS • JavaScript • Responsive Design
 
-[View Project](YOUR_BREWTIFUL_REPO_LINK)
+[View Project](https://github.com/so567/brewtiful-coffee-website.git)
 
 ---
 
@@ -92,7 +93,7 @@ Python and Jupyter Notebook.
 
 **Focus:** Python • Data Analysis • Data Visualization
 
-[View Project](YOUR_VG_REPO_LINK)
+[View Project](https://github.com/so567/video-game-sales-analysis.git)
 
 ---
 
