@@ -58,8 +58,8 @@ Currently working on strengthening my skills in:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Antigravity" width="24" height="24"/>
-  <img src="https://www.gstatic.com/labs-code/stitch/favicon-512x512.png" alt="Stitch" width="24" height="24"/>
+  <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="Antigravity" width="30" height="30"/>
+  <img src="https://www.gstatic.com/labs-code/stitch/favicon-512x512.png" alt="Stitch" width="30" height="30"/>
 </p>
 ---
 
